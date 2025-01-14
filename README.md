@@ -1,3 +1,3 @@
-# livecoding
+# Flutter Pokemon List
 
-A new Flutter project.
+Creating pokemon list with flutter.
